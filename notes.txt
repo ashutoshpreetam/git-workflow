@@ -1,2 +1,2 @@
 Line 1: Updated after resolving conflict (merged A and B)
-Line 3: Direct main update
+Line 2 and Line 3: Merged content after resolving rebase conflict
