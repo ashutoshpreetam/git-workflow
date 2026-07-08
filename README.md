@@ -18,7 +18,7 @@ git init, clone, add, commit, branch, checkout/switch, merge, rebase, log, statu
 git init
 git add .gitignore README.md
 git commit -m "Initial commit: add README and gitignore"
-git remote add origin https://github.com/ashutoshpreetam/git-workflow-lab.git
+git remote add origin https://github.com/ashutoshpreetam/git-workflow.git
 git push -u origin main
 
 git checkout -b feature/add-content
