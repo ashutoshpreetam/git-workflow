@@ -65,3 +65,6 @@ git log --oneline --graph --all --decorate
 
 ## Author
 Ashutosh Preetam
+
+## Release
+Current stable version: **v1.0**
