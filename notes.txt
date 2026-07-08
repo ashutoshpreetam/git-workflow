@@ -1,1 +1,2 @@
 Line 1: Updated after resolving conflict (merged A and B)
+Line 3: Direct main update
