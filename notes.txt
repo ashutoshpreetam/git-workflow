@@ -1,1 +1,1 @@
-Line 1: Updated by branch A
+Line 1: Updated after resolving conflict (merged A and B)
